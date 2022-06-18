@@ -1,0 +1,35 @@
+html{
+    padding: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #666;
+    color: white;
+    text-align: center;
+}
+
+h1{
+    padding-bottom: 20px;
+}
+
+input[type="text"]{
+    margin-right: 20px;
+}
+
+input{
+    padding: 5px;
+}
+
+a{
+    border: 2px solid white;
+    border-radius: 20px;
+    padding: 20px 60px;
+    font-size: 30px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: white;
+    background-color: #234;
+    transition-duration: 200ms;
+}
+
+a:hover{
+    background-color: rgb(87, 129, 170);
+}
